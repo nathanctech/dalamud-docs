@@ -61,7 +61,7 @@ do not need to disclose anything.
 **Requirements:**
 
 - Plugins that are primarily or entirely a product of generative AI (i.e,
- **Copilot** or **Auto** categories) that are deemed too complex to review are
+ **Copilot** or **Auto** categories) that are deemed too complex to review are 
   subject to rejection. We want to reward creators who put the effort and
   dedication into making plugins that last and contribute in a positive way to
   the current ecosystem.
